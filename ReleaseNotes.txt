@@ -1,0 +1,21 @@
+Freshdesk iOS SDK - Powered by Freshworks
+
+Documentation   : https://support.freshdesk.com
+Support Email   : support@freshdesk.com
+Version         : 0.1.0
+
+
+Ver 0.1.0
+__________________________
+
+New Features:
+    - Customers can chat with the end agent
+    - Faqs are supported
+    - Set User, Get User, Reset User are supported
+    - Secure user authentication and authorization via JWT
+    - Stay informed with unread message counts
+    - Enjoy the platform in your preferred language with localization support
+    - Gain deeper insights into user behavior with our new method trackUserEvents(name: String, payload: [String: String]?), supporting the tracking of custom events.
+    - Stay updated with our SDK version with our new method getSDKVersion() -> String
+    - Gain control over your widget visibility with our new method dismissFreshworksSDKViews()
+    - We now support a range of Messenger Events, including FRESHDESK_USER_CREATED, FRESHDESK_UNREAD_MESSAGE_COUNT_CHANGED, FRESHDESK_MESSAGE_SENT, FRESHDESK_MESSAGE_RECEIVED, FRESHDESK_CSAT_UPDATED, FRESHDESK_CSAT_RECEIVED, FRESHDESK_DOWNLOAD_FILE and FRESHDESK_USER_CLEARED.
