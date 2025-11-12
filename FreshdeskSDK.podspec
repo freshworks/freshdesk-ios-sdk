@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license 	 		 = { :type => 'Commercial', :file => 'FreshdeskSDK/LICENSE', :text => 'See https://www.freshworks.com/terms' }
   s.author       		 = { "Freshdesk" => "support@freshdesk.com" }
   s.social_media_url     = "https://twitter.com/freshdesk"
-  s.platform     		 = :ios, "14.0"
+  s.platform     		 = :ios, "17.0"
   s.source       		 = { :git => "https://github.com/freshworks/freshdesk-ios-sdk.git", :tag => "v#{s.version}" }
   s.frameworks 			 = "Foundation", "SystemConfiguration", "Security", "WebKit" 
   s.requires_arc 		 = true

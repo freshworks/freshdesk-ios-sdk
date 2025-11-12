@@ -104,7 +104,7 @@ Note: self --> current viewcontroller
 - Open a specific topic
     Customize your ticket by adding specific topic filter during creation. To implement, pass specific topic id and topic name with openTopic public api call for relevant topic.
     ```swift
-        Freshdesk.openTopic(self, topicId: "topic-id", topicName: "topic-name")
+        Freshdesk.openTopic(self, topicId: topic-id, topicName: "topic-name")
     ```
 ### Unread count
     Get existing unread count value
@@ -150,7 +150,7 @@ Request for notification permission if granted register the token with Freshdesk
         let userInfo = notification.request.content.userInfo
         let appState = UIApplication.shared.applicationState
         
-        if Freshdesk.isFreshworksNotification(userInfo) {
+        if Freshdesk.isFreshdeskNotification(userInfo) {
             Freshdesk.handleRemoteNotification(userInfo, appState: appState)
         
         } else {
@@ -163,7 +163,7 @@ Request for notification permission if granted register the token with Freshdesk
         let userInfo = response.notification.request.content.userInfo
         let appState = UIApplication.shared.applicationState
         
-        if Freshdesk.isFreshworksNotification(userInfo) {
+        if Freshdesk.isFreshdeskNotification(userInfo) {
             Freshdesk.handleRemoteNotification(userInfo, appState: appState)
         } else{
             // Not Freshdesk notification
@@ -223,7 +223,7 @@ extension <YourClass>: FreshdeskJWTDelegate {
 }
 ```
 
-Step 5: Create a valid JWT and update the user using below method, Reset user needs to be invoked if the new user is restored.
+Step 5: Create a valid JWT and update the user using below method, Reset user needs to be invoked if the new user is created/restored.
 ```swift
 Freshdesk.authenticateAndUpdate(jwt: "<valid-JWT>")
 ```

@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct OpenSpecificConversationsInputView: View {
-    let didDismiss: (_ topicId: String, _ topicName: String, _ showConversation: Bool) -> Void
+    let didDismiss: (_ topicId: Int, _ topicName: String, _ showConversation: Bool) -> Void
 
     @State private var conversationReferenceId: String = UserDefaults.standard.string(forKey: Constants.UserDefaultsKeys.topicIdForConversation) ?? Constants.Characters.emptyString
     @State private var topicName: String = UserDefaults.standard.string(forKey: Constants.UserDefaultsKeys.topicNameForConversation) ?? Constants.Characters.emptyString
@@ -39,13 +39,13 @@ struct OpenSpecificConversationsInputView: View {
     }
 
     private func dismissAction() {
-        didDismiss(Constants.Characters.emptyString, Constants.Characters.emptyString ,false)
+        didDismiss(0, Constants.Characters.emptyString ,false)
     }
 
     private func updateButtonTapped() {
         UserDefaults.standard.set(conversationReferenceId, forKey: Constants.UserDefaultsKeys.topicIdForConversation)
         UserDefaults.standard.set(topicName, forKey: Constants.UserDefaultsKeys.topicNameForConversation)
-        didDismiss(conversationReferenceId, topicName , true)
+        didDismiss(0, topicName , true)
     }
 }
 
