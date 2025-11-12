@@ -1,3 +1,14 @@
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.lock
+*.DS_Store
+*.xcworkspacedata
+dist/
+*.build/
+*.idea/
 ###### GIT INT ######
 # 7e0d43a5443a17369490ee2c1bdfbc9aa2ecb87f2e6f5ff1b47ec50393d94db1 #
 ###### GIT INT ######
