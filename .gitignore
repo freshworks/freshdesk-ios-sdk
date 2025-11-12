@@ -1,0 +1,11 @@
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.lock
+*.DS_Store
+*.xcworkspacedata
+dist/
+*.build/
+*.idea/
