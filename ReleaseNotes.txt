@@ -19,3 +19,15 @@ New Features:
     - Stay updated with our SDK version with our new method getSDKVersion() -> String
     - Gain control over your widget visibility with our new method dismissFreshworksSDKViews()
     - We now support a range of Messenger Events, including FRESHDESK_USER_CREATED, FRESHDESK_UNREAD_MESSAGE_COUNT_CHANGED, FRESHDESK_MESSAGE_SENT, FRESHDESK_MESSAGE_RECEIVED, FRESHDESK_CSAT_UPDATED, FRESHDESK_CSAT_RECEIVED, FRESHDESK_DOWNLOAD_FILE and FRESHDESK_USER_CLEARED.
+
+Ver 0.2.0
+__________________________
+
+Enhancement:
+    - FRESHDESK_CSAT_UPDATED and FRESHDESK_CSAT_RECEIVED events are deprecated.
+    - Real-time agent message notifications are now supported in tickets.
+    - Better feedback and error handling with Reset user api.
+    
+Bug fixes:
+    - Improvements in AuthenticateAndUpdate api and other minor improvements.
+    

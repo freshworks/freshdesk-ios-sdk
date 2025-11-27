@@ -14,10 +14,6 @@ extension UserDefaults {
         //User details
         removeObject(forKey: Constants.UserDefaultsKeys.userDetails)
         
-        //Identify user
-        removeObject(forKey: Constants.UserDefaultsKeys.externalID)
-        removeObject(forKey: Constants.UserDefaultsKeys.restoreID)
-        
         //Locale change
         removeObject(forKey: Constants.UserDefaultsKeys.selectedUserLanguageLocaleCode)
         
@@ -32,7 +28,7 @@ extension UserDefaults {
         //Jwt
         updateJWT(Constants.Characters.emptyString)
         
-        //Conversation Properties
+        //Ticket Properties
         removeObject(forKey: Constants.UserDefaultsKeys.ticketProperties)
         
         //Bot variables
