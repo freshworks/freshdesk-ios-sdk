@@ -39,7 +39,7 @@ extension FreshdeskSDK.AnyCodable : Swift.Encodable {
 public let Freshdesk: FreshdeskSDK.Freshworks
 public let FD_EMPTY_STR: Swift.String
 public enum FDEvents : Swift.String, Swift.CaseIterable {
-  case userCreated, unreadCount, messageSent, messageReceived, csatUpdated, csatReceived, downloadFile, userCleared
+  case userCreated, unreadCount, messageSent, messageReceived, downloadFile, userCleared
   #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
   #endif
@@ -105,7 +105,7 @@ extension FreshdeskSDK.Freshworks {
   nonisolated final public func getUser(onFailure: ((any Swift.Error) -> Swift.Void)? = nil, onSuccess: @escaping ([Swift.String : Any]) -> Swift.Void)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  nonisolated final public func resetUser(completion: (() -> Swift.Void)? = nil)
+  nonisolated final public func resetUser(onSuccess: (() -> Swift.Void)? = nil, onFailure: (() -> Swift.Void)? = nil)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
   nonisolated final public func trackUserEvents(name: Swift.String, payload: [Swift.String : Swift.String]? = nil)

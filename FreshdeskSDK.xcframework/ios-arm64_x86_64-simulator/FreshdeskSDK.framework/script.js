@@ -5,9 +5,6 @@
 //  Created by Srivikashini Venkatachalam on 10/12/24.
 //
 
-let platform = "iOS";
-const iOS = 'iOS';
-const ANDROID = 'ANDROID';
 const LOG = {
     V: 1,
     D: 2,
@@ -33,7 +30,6 @@ function initialSetupAndRegisterEvent() {
     setupWidgetEvents();
     setupUserEvents();
     setupMessageEvents();
-    setupCsatEvents();
     setupFileEvents();
 }
 
@@ -66,6 +62,7 @@ function setupWidgetEvents() {
 function setupUserEvents() {
   window.fdWidget.on("user:created", function(resp) {
     window.fdWidget.user.get().then(function(result) {
+      log.d("User created");
       webkit.messageHandlers.onUserCreated.postMessage(result);
     }, function(error) {
       if(error.status = 401) {
@@ -103,18 +100,6 @@ function setupMessageEvents() {
   window.fdWidget.on("message:received", function(data) {
     console.log('Message Received');
     webkit.messageHandlers.messageReceived.postMessage(data);
-  });
-}
-
-function setupCsatEvents() {
-  window.fdWidget.on("csat:received", function(data) {
-    console.log('Csat Received');
-    webkit.messageHandlers.csatReceived.postMessage(data);
-  });
-  
-  window.fdWidget.on("csat:updated", function(data) {
-    console.log('Csat Updated');
-    webkit.messageHandlers.csatUpdated.postMessage(data);
   });
 }
 

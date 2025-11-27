@@ -58,6 +58,15 @@ final class ViewController: UIViewController {
         resetUser { [weak self] in
             self?.showToast(message: Constants.Toast.userResetSuccess)
         }
+        //Rest user with success and failure
+        Freshworks.shared.resetUser(
+            onSuccess: {
+                self.showToast(message: Constants.Toast.userResetSuccess)
+            },
+            onFailure: {
+                print("Reset user Failed!")
+            }
+        )
     }
    
     @IBAction func setUserProperties(_ sender: Any) {
@@ -177,7 +186,7 @@ final class ViewController: UIViewController {
     
     private func resetUser(completion: (() -> Void)? = nil) {
         UserDefaults.standard.resetUserDetails()
-        Freshdesk.resetUser(completion: completion)
+        completion?()
     }
     
     @IBAction func configureTapped(_ sender: UIButton) {
@@ -323,8 +332,6 @@ extension ViewController {
         NotificationCenter.default.addObserver(self, selector: #selector(self.onUnreadCount(_:)), name: Notification.Name(FDEvents.unreadCount.rawValue), object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.messageSent.rawValue), object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.messageReceived.rawValue), object: nil)
-        NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.csatUpdated.rawValue), object: nil)
-        NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.csatReceived.rawValue), object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.downloadFile.rawValue), object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(self.onFreshchatEventTriggered(_:)), name: Notification.Name(FDEvents.userCleared.rawValue), object: nil)
     }
