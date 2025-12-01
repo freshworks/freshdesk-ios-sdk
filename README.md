@@ -4,20 +4,11 @@ Freshdesk iOS SDK
 "Modern ticket software that your sales and customer engagement teams will love [FreshdeskSDK](https://www.freshworks.com)."
 
 ## Installation
+Freshchat iOS SDK is compatible with iOS 17+ devices, and delivers the best experience on iOS 18.5 and newer versions.
+
 ### Swift Package Manager
 Add https://github.com/freshworks/freshdesk-ios-sdk as a Swift Package Repository in Xcode and follow the instructions to add FreshdeskSDK as a Swift Package.
 
-### Cocoapods
-Freshdesk iOS SDK can be integrated using cocoapods by specifying the following in your podfile:
-
-```ruby
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '15.0'
-
-target 'Your project target' do
-pod 'FreshdeskSDK'
-end
-```
 
 ## Documentation
 ### Initialisation
@@ -55,7 +46,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     ```
 
 ### User
-- Inorder to Create/Update/SetUser use the below for reference. (Make sure that properties are whitelisted under Contact Fields of SDK linked widget).
+- Inorder to Create/Update/SetUser use the below for reference. (Make sure that properties are whitelisted under Contact Fields of SDK linked widget for non-enforced user authentication widget).
     ```swift
          // Compose user properties and pass them to setUserDetails API
          let userProperties: [String: Any] = [
@@ -86,7 +77,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
         // Pass the dictionary to Freshdesk API
         Freshdesk.setTicketProperties(with: ticketProperties)
     ```
-- To clear clear details on logout or upgrade user from guest user to an identified user
+- To reset user details on logout or upgrade user from guest user to an identified user
     ```swift
         Freshdesk.resetUser()
     ```
@@ -126,6 +117,7 @@ To get unread count in real time add a notification observer as defined below
 ```
 
 ### PushNotifications
+Freshchat SDK supports push notifications only through a .p8 certificate. Make sure to upload your .p8 push certificate in portal via Select settings -> Mobile Chat SDK -> Select a SDK needed -> Push Notification and update Authkey and TeamId value.
 Request for notification permission if granted register the token with Freshdesk.
 ```swift
    extension AppDelegate: UNUserNotificationCenterDelegate {

@@ -3838,2751 +3838,2751 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 17,
       "value": "\"jwt_not_present\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
       "kind": "StringLiteral",
       "offset": 456,
       "length": 19,
       "value": "\"not_authenticated\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
       "kind": "StringLiteral",
       "offset": 499,
       "length": 14,
       "value": "\"auth_expired\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskJWTManager.swift",
       "kind": "StringLiteral",
       "offset": 543,
       "length": 20,
       "value": "\"identifier_updated\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
       "kind": "StringLiteral",
       "offset": 223,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
       "kind": "StringLiteral",
       "offset": 298,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/Network\/Config\/NetworkConfig.swift",
       "kind": "StringLiteral",
       "offset": 331,
       "length": 8,
       "value": "\"Cookie\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 628,
       "length": 7,
       "value": "\"SOLID\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 656,
       "length": 10,
       "value": "\"GRADIENT\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 738,
       "length": 10,
       "value": "\"Disabled\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 768,
       "length": 9,
       "value": "\"Enabled\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 933,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 1107,
       "length": 17,
       "value": "\"FreshdeskConfig\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskConfig.swift",
       "kind": "StringLiteral",
       "offset": 1165,
       "length": 22,
       "value": "\"ConfigFetchTimestamp\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 153,
       "length": 8,
       "value": "\"window\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 11,
       "value": "\".fdWidget\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 7,
       "value": "\".user\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 8,
       "value": "\".close\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 345,
       "length": 9,
       "value": "\".ticket\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 15,
       "value": "\".conversation\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 447,
       "length": 17,
       "value": "\"getSessionToken\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 538,
       "length": 9,
       "value": "\".update\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 594,
       "length": 16,
       "value": "\".setProperties\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 647,
       "length": 7,
       "value": "\".open\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 703,
       "length": 9,
       "value": "\".openKb\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 750,
       "length": 9,
       "value": "\".reInit\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 793,
       "length": 16,
       "value": "\"getUserDetails\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 855,
       "length": 8,
       "value": "\".track\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 902,
       "length": 12,
       "value": "\".setLocale\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 973,
       "length": 28,
       "value": "\".setConversationProperties\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1073,
       "length": 8,
       "value": "\".clear\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1147,
       "length": 7,
-      "value": "\"0.2.0\""
+      "value": "\"1.0.0\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1170,
       "length": 14,
       "value": "\"FreshdeskSDK\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1197,
       "length": 7,
       "value": "\"Apple\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1273,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1334,
       "length": 16,
       "value": "\"freshdesk_user\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1449,
       "length": 24,
       "value": "\"FRESHDESK_USER_CREATED\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1498,
       "length": 40,
       "value": "\"FRESHDESK_UNREAD_MESSAGE_COUNT_CHANGED\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1563,
       "length": 24,
       "value": "\"FRESHDESK_MESSAGE_SENT\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1616,
       "length": 28,
       "value": "\"FRESHDESK_MESSAGE_RECEIVED\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1670,
       "length": 25,
       "value": "\"FRESHDESK_DOWNLOAD_FILE\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1720,
       "length": 24,
       "value": "\"FRESHDESK_USER_CLEARED\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1846,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1907,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 1974,
       "length": 8,
       "value": "\"Accept\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2024,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2088,
       "length": 20,
       "value": "\"X-App-Package-Name\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2274,
       "length": 26,
       "value": "\"com.freshworks.SouthWest\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2343,
       "length": 15,
       "value": "\"X-FC-Platform\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2402,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2457,
       "length": 9,
       "value": "\"sdkType\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2509,
       "length": 15,
       "value": "\"freshdesk-sdk\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2571,
       "length": 17,
       "value": "\"x-webchat-token\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2631,
       "length": 17,
       "value": "\"x-fd-mobile-sdk\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2781,
       "length": 15,
       "value": "\"x-fd-wc-token\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2846,
       "length": 22,
       "value": "\"x-visitor-auth-token\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2943,
       "length": 6,
       "value": "\"msdk\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 2995,
       "length": 9,
       "value": "\"config-\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3064,
       "length": 27,
       "value": "\"\/webchat\/v1\/sdk\/%@\/config\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3152,
       "length": 47,
       "value": "\"\/webchat\/v1\/sdk\/%@\/visitors\/%@\/register-token\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3266,
       "length": 49,
       "value": "\"\/webchat\/v1\/sdk\/%@\/visitors\/%@\/deregister-token\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3384,
       "length": 50,
       "value": "\"snippets.freshchat.com\/js\/fc-pre-chat-form-v2.js\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3512,
       "length": 16,
       "value": "\"jwtAuthEnabled\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3604,
       "length": 17,
       "value": "\"fw_widgetLocale\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3669,
       "length": 31,
       "value": "\"fw_ConfigLocalisation_content\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3755,
       "length": 38,
       "value": "\"fw_ConfigLocalisation_HeaderProperty\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3829,
       "length": 19,
       "value": "\"fw_device_details\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3911,
       "length": 24,
       "value": "\"No Internet Connection\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 3969,
       "length": 54,
       "value": "\"Please check your internet connection and try again.\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4082,
       "length": 9,
       "value": "\"content\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4105,
       "length": 8,
       "value": "\"source\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4129,
       "length": 10,
       "value": "\"topic_id\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4157,
       "length": 12,
       "value": "\"topic_name\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4187,
       "length": 7,
       "value": "\"title\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4219,
       "length": 6,
       "value": "\"body\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4241,
       "length": 5,
       "value": "\"aps\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4264,
       "length": 7,
       "value": "\"alert\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4291,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4313,
       "length": 7,
       "value": "\"error\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4332,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4351,
       "length": 5,
       "value": "\"key\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4369,
       "length": 7,
       "value": "\"value\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4388,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4416,
       "length": 15,
       "value": "\"webChatConfig\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4444,
       "length": 7,
       "value": "\"count\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4491,
       "length": 13,
       "value": "\"deviceToken\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4521,
       "length": 10,
       "value": "\"deviceId\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4556,
       "length": 18,
       "value": "\"deviceProperties\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4593,
       "length": 12,
       "value": "\"deviceType\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4635,
       "length": 5,
       "value": "\"ios\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4658,
       "length": 7,
       "value": "\"debug\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4690,
       "length": 10,
       "value": "\"bundleId\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4720,
       "length": 4,
       "value": "\"%@\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4744,
       "length": 3,
       "value": "\"(\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4768,
       "length": 3,
       "value": "\")\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4791,
       "length": 3,
       "value": "\"'\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4818,
       "length": 4,
       "value": "\"\\\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4838,
       "length": 4,
       "value": "\"\n\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4855,
       "length": 3,
       "value": "\",\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 4875,
       "length": 3,
       "value": "\";\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 4986,
       "length": 3,
       "value": "120"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5040,
       "length": 93,
       "value": "\"FreshdeskSDK: Limit exceeded - Maximum character for conversationReferenceId allowed is 120\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5177,
       "length": 77,
       "value": "\"FreshdeskSDK: Bot properties are invalid\/Unable to parse the bot properties\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5301,
       "length": 82,
       "value": "\"FreshdeskSDK: Failed to parse properties for SDK. Please check properties again.\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5419,
       "length": 24,
       "value": "\"SDK is not initialised\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5480,
       "length": 37,
       "value": "\"This section is no longer available\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5530,
       "length": 10,
       "value": "\"https:\/\/\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5585,
       "length": 120,
       "value": "\"FreshdeskSDK: JWT authentication is enforced on your SDK widget. Call authenticateAndUpdate(jwtToken: String) instead.\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDConstants.swift",
       "kind": "StringLiteral",
       "offset": 5855,
       "length": 13,
       "value": "\"sdk_webview\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/GradientBackgroundManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/GradientBackgroundManager.swift",
       "kind": "BooleanLiteral",
       "offset": 304,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 940,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 8399,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController+ReverseCommunication.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebViewController+ReverseCommunication.swift",
       "kind": "BooleanLiteral",
-      "offset": 9278,
+      "offset": 9314,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
       "kind": "BooleanLiteral",
       "offset": 452,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
       "kind": "FloatLiteral",
       "offset": 511,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKInAppNotificationBanner.swift",
       "kind": "BooleanLiteral",
       "offset": 3611,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
       "kind": "StringLiteral",
       "offset": 3070,
       "length": 6,
       "value": "\"html\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
       "kind": "StringLiteral",
       "offset": 3103,
       "length": 4,
       "value": "\"js\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/View\/SDKWebView.swift",
       "kind": "StringLiteral",
       "offset": 4242,
       "length": 7,
       "value": "\"index\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/FreshdeskManager.swift",
       "kind": "IntegerLiteral",
       "offset": 975,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
       "kind": "Dictionary",
       "offset": 234,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
       "kind": "BooleanLiteral",
       "offset": 278,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
       "kind": "Dictionary",
       "offset": 372,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
       "kind": "Dictionary",
       "offset": 456,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/WidgetStateManager.swift",
       "kind": "StringLiteral",
       "offset": 505,
       "length": 25,
       "value": "\"com.freshdesk.sdk.queue\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
       "kind": "BooleanLiteral",
       "offset": 532,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
       "kind": "Dictionary",
       "offset": 1408,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1448,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
       "kind": "Dictionary",
       "offset": 1503,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/WidgetEntity\/SDKConfigurationModel.swift",
       "kind": "StringLiteral",
       "offset": 1990,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/Freshworks.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Core\/Freshworks.swift",
       "kind": "BooleanLiteral",
       "offset": 724,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "IntegerLiteral",
       "offset": 4273,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4559,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4615,
       "length": 29,
       "value": "\"iPod touch (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4662,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4718,
       "length": 29,
       "value": "\"iPod touch (6th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4765,
       "length": 9,
       "value": "\"iPod9,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4821,
       "length": 29,
       "value": "\"iPod touch (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4868,
       "length": 11,
       "value": "\"iPhone3,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4881,
       "length": 11,
       "value": "\"iPhone3,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4894,
       "length": 11,
       "value": "\"iPhone3,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4924,
       "length": 10,
       "value": "\"iPhone 4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 4952,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5008,
       "length": 11,
       "value": "\"iPhone 4s\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5037,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5050,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5093,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5121,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5134,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5177,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5206,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5219,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5262,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5291,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5347,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5375,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5431,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5464,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5520,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5549,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5605,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5639,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5652,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5695,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5723,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5736,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5779,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5812,
       "length": 12,
       "value": "\"iPhone10,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5826,
       "length": 12,
       "value": "\"iPhone10,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5868,
       "length": 10,
       "value": "\"iPhone 8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5896,
       "length": 12,
       "value": "\"iPhone10,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5910,
       "length": 12,
       "value": "\"iPhone10,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5952,
       "length": 15,
       "value": "\"iPhone 8 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5985,
       "length": 12,
       "value": "\"iPhone10,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 5999,
       "length": 12,
       "value": "\"iPhone10,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6041,
       "length": 10,
       "value": "\"iPhone X\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6069,
       "length": 12,
       "value": "\"iPhone11,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6125,
       "length": 11,
       "value": "\"iPhone XS\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6154,
       "length": 12,
       "value": "\"iPhone11,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6168,
       "length": 12,
       "value": "\"iPhone11,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6210,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6243,
       "length": 12,
       "value": "\"iPhone11,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6299,
       "length": 11,
       "value": "\"iPhone XR\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6328,
       "length": 12,
       "value": "\"iPhone12,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6384,
       "length": 11,
       "value": "\"iPhone 11\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6413,
       "length": 12,
       "value": "\"iPhone12,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6469,
       "length": 15,
       "value": "\"iPhone 11 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6502,
       "length": 12,
       "value": "\"iPhone12,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6558,
       "length": 19,
       "value": "\"iPhone 11 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6595,
       "length": 12,
       "value": "\"iPhone13,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6651,
       "length": 16,
       "value": "\"iPhone 12 mini\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6685,
       "length": 12,
       "value": "\"iPhone13,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6741,
       "length": 11,
       "value": "\"iPhone 12\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6770,
       "length": 12,
       "value": "\"iPhone13,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6826,
       "length": 15,
       "value": "\"iPhone 12 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6859,
       "length": 12,
       "value": "\"iPhone13,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6915,
       "length": 19,
       "value": "\"iPhone 12 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 6952,
       "length": 12,
       "value": "\"iPhone14,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7008,
       "length": 16,
       "value": "\"iPhone 13 mini\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7042,
       "length": 12,
       "value": "\"iPhone14,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7098,
       "length": 11,
       "value": "\"iPhone 13\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7127,
       "length": 12,
       "value": "\"iPhone14,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7183,
       "length": 15,
       "value": "\"iPhone 13 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7216,
       "length": 12,
       "value": "\"iPhone14,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7272,
       "length": 19,
       "value": "\"iPhone 13 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7309,
       "length": 12,
       "value": "\"iPhone14,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7365,
       "length": 11,
       "value": "\"iPhone 14\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7394,
       "length": 12,
       "value": "\"iPhone14,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7450,
       "length": 16,
       "value": "\"iPhone 14 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7484,
       "length": 12,
       "value": "\"iPhone15,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7540,
       "length": 15,
       "value": "\"iPhone 14 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7573,
       "length": 12,
       "value": "\"iPhone15,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7629,
       "length": 19,
       "value": "\"iPhone 14 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7666,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7722,
       "length": 11,
       "value": "\"iPhone SE\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7751,
       "length": 12,
       "value": "\"iPhone12,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7807,
       "length": 28,
       "value": "\"iPhone SE (2nd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7853,
       "length": 12,
       "value": "\"iPhone14,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7909,
       "length": 28,
       "value": "\"iPhone SE (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 7955,
       "length": 12,
       "value": "\"iPhone15,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8011,
       "length": 11,
       "value": "\"iPhone 15\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8040,
       "length": 12,
       "value": "\"iPhone15,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8096,
       "length": 16,
       "value": "\"iPhone 15 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8130,
       "length": 12,
       "value": "\"iPhone16,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8186,
       "length": 15,
       "value": "\"iPhone 15 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8219,
       "length": 12,
       "value": "\"iPhone16,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8275,
       "length": 19,
       "value": "\"iPhone 15 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8312,
       "length": 12,
       "value": "\"iPhone17,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8368,
       "length": 11,
       "value": "\"iPhone 16\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8397,
       "length": 12,
       "value": "\"iPhone17,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8453,
       "length": 16,
       "value": "\"iPhone 16 Plus\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8487,
       "length": 12,
       "value": "\"iPhone17,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8543,
       "length": 15,
       "value": "\"iPhone 16 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8576,
       "length": 12,
       "value": "\"iPhone17,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8632,
       "length": 19,
       "value": "\"iPhone 16 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8669,
       "length": 12,
       "value": "\"iPhone17,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8725,
       "length": 12,
       "value": "\"iPhone 16e\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8755,
       "length": 12,
       "value": "\"iPhone18,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8811,
       "length": 15,
       "value": "\"iPhone 17 Pro\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8844,
       "length": 12,
       "value": "\"iPhone18,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8900,
       "length": 19,
       "value": "\"iPhone 17 Pro Max\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8937,
       "length": 12,
       "value": "\"iPhone18,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 8993,
       "length": 11,
       "value": "\"iPhone 17\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9022,
       "length": 12,
       "value": "\"iPhone18,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9078,
       "length": 12,
       "value": "\"iPhone Air\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9108,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9119,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9130,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9141,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9164,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9190,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9201,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9212,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9246,
       "length": 23,
       "value": "\"iPad (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9287,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9298,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9309,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9343,
       "length": 23,
       "value": "\"iPad (4th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9384,
       "length": 10,
       "value": "\"iPad6,11\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9396,
       "length": 10,
       "value": "\"iPad6,12\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9440,
       "length": 23,
       "value": "\"iPad (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9481,
       "length": 9,
       "value": "\"iPad7,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9492,
       "length": 9,
       "value": "\"iPad7,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9537,
       "length": 23,
       "value": "\"iPad (6th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9578,
       "length": 10,
       "value": "\"iPad7,11\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9590,
       "length": 10,
       "value": "\"iPad7,12\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9634,
       "length": 23,
       "value": "\"iPad (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9675,
       "length": 10,
       "value": "\"iPad11,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9687,
       "length": 10,
       "value": "\"iPad11,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9731,
       "length": 23,
       "value": "\"iPad (8th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9772,
       "length": 10,
       "value": "\"iPad12,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9784,
       "length": 10,
       "value": "\"iPad12,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9828,
       "length": 23,
       "value": "\"iPad (9th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9869,
       "length": 11,
       "value": "\"iPad13,18\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9882,
       "length": 11,
       "value": "\"iPad13,19\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9925,
       "length": 24,
       "value": "\"iPad (10th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9967,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9978,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 9989,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10023,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10051,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10062,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10107,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10137,
       "length": 10,
       "value": "\"iPad11,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10149,
       "length": 10,
       "value": "\"iPad11,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10193,
       "length": 27,
       "value": "\"iPad Air (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10238,
       "length": 10,
       "value": "\"iPad13,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10250,
       "length": 10,
       "value": "\"iPad13,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10294,
       "length": 27,
       "value": "\"iPad Air (4th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10339,
       "length": 11,
       "value": "\"iPad13,16\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10352,
       "length": 11,
       "value": "\"iPad13,17\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10395,
       "length": 27,
       "value": "\"iPad Air (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10440,
       "length": 10,
       "value": "\"iPad14,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10452,
       "length": 10,
       "value": "\"iPad14,9\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10496,
       "length": 27,
       "value": "\"iPad Air (6th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10541,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10552,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10563,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10597,
       "length": 11,
       "value": "\"iPad mini\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10626,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10637,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10648,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10682,
       "length": 13,
       "value": "\"iPad mini 2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10713,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10724,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10735,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10769,
       "length": 13,
       "value": "\"iPad mini 3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10800,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10811,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10856,
       "length": 13,
       "value": "\"iPad mini 4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10887,
       "length": 10,
       "value": "\"iPad11,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10899,
       "length": 10,
       "value": "\"iPad11,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10943,
       "length": 28,
       "value": "\"iPad mini (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 10989,
       "length": 10,
       "value": "\"iPad14,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11001,
       "length": 10,
       "value": "\"iPad14,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11045,
       "length": 28,
       "value": "\"iPad mini (6th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11091,
       "length": 9,
       "value": "\"iPad6,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11102,
       "length": 9,
       "value": "\"iPad6,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11147,
       "length": 21,
       "value": "\"iPad Pro (9.7-inch)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11186,
       "length": 9,
       "value": "\"iPad7,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11197,
       "length": 9,
       "value": "\"iPad7,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11242,
       "length": 22,
       "value": "\"iPad Pro (10.5-inch)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11282,
       "length": 9,
       "value": "\"iPad8,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11293,
       "length": 9,
       "value": "\"iPad8,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11304,
       "length": 9,
       "value": "\"iPad8,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11315,
       "length": 9,
       "value": "\"iPad8,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11338,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (1st generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11393,
       "length": 9,
       "value": "\"iPad8,9\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11404,
       "length": 10,
       "value": "\"iPad8,10\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11449,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (2nd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11504,
       "length": 10,
       "value": "\"iPad13,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11516,
       "length": 10,
       "value": "\"iPad13,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11528,
       "length": 10,
       "value": "\"iPad13,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11540,
       "length": 10,
       "value": "\"iPad13,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11560,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11615,
       "length": 10,
       "value": "\"iPad14,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11627,
       "length": 10,
       "value": "\"iPad14,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11671,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (4th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11726,
       "length": 9,
       "value": "\"iPad6,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11737,
       "length": 9,
       "value": "\"iPad6,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11782,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (1st generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11839,
       "length": 9,
       "value": "\"iPad7,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11850,
       "length": 9,
       "value": "\"iPad7,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11895,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11952,
       "length": 9,
       "value": "\"iPad8,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11963,
       "length": 9,
       "value": "\"iPad8,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11974,
       "length": 9,
       "value": "\"iPad8,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 11985,
       "length": 9,
       "value": "\"iPad8,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12008,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12065,
       "length": 10,
       "value": "\"iPad8,11\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12077,
       "length": 10,
       "value": "\"iPad8,12\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12121,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (4th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12178,
       "length": 10,
       "value": "\"iPad13,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12190,
       "length": 10,
       "value": "\"iPad13,9\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12202,
       "length": 11,
       "value": "\"iPad13,10\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12215,
       "length": 11,
       "value": "\"iPad13,11\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12234,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12291,
       "length": 10,
       "value": "\"iPad14,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12303,
       "length": 10,
       "value": "\"iPad14,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12347,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (6th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12404,
       "length": 10,
       "value": "\"iPad15,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12416,
       "length": 10,
       "value": "\"iPad15,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12460,
       "length": 37,
       "value": "\"iPad Air (11-inch) (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12515,
       "length": 10,
       "value": "\"iPad15,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12527,
       "length": 10,
       "value": "\"iPad15,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12571,
       "length": 37,
       "value": "\"iPad Air (13-inch) (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12626,
       "length": 10,
       "value": "\"iPad15,7\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12638,
       "length": 10,
       "value": "\"iPad15,8\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12682,
       "length": 24,
       "value": "\"iPad (11th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12724,
       "length": 10,
       "value": "\"iPad16,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12736,
       "length": 10,
       "value": "\"iPad16,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12780,
       "length": 28,
       "value": "\"iPad mini (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12826,
       "length": 10,
       "value": "\"iPad16,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12838,
       "length": 10,
       "value": "\"iPad16,4\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12882,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (5th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12937,
       "length": 10,
       "value": "\"iPad16,5\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12949,
       "length": 10,
       "value": "\"iPad16,6\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 12993,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (7th generation)\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13067,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13123,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13151,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13207,
       "length": 13,
       "value": "\"Apple TV 4K\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13238,
       "length": 19,
       "value": "\"AudioAccessory1,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13294,
       "length": 9,
       "value": "\"HomePod\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13321,
       "length": 19,
       "value": "\"AudioAccessory5,1\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13377,
       "length": 14,
       "value": "\"HomePod mini\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13409,
       "length": 6,
       "value": "\"i386\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13417,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13427,
       "length": 7,
       "value": "\"arm64\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13465,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13528,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13561,
       "length": 5,
       "value": "\"iOS\""
     },
     {
-      "filePath": "\/Users\/amurugan\/Documents\/Developer\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
+      "filePath": "\/Users\/harkumar\/Documents\/Hotline\/Freshdesk_iOS_SDK_Dev\/freshdesk_ios_sdk_dev\/Sources\/FreshdeskSDK\/LWSDK\/Common\/FDExtentions.swift",
       "kind": "StringLiteral",
       "offset": 13568,
       "length": 1,
