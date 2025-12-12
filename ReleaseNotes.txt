@@ -2,9 +2,53 @@ Freshdesk iOS SDK - Powered by Freshworks
 
 Documentation   : https://support.freshdesk.com
 Support Email   : support@freshdesk.com
-Version         : 0.1.0
+Version         : 1.1.0
 
+Ver 1.1.0
+__________________________
+Enhancement:
+    - Added a flag in initialisation to support debug logs.
 
+Bug fixes:
+    - Resolved an issue affecting push notifications specifically during the user restore.
+    - Minor bug fixes and improvements.
+
+Ver 1.0.0
+__________________________
+
+We’re excited to announce the first public release of our Mobile Chat SDK Version 1.0.0 built to deliver fast, reliable, and intelligent customer support experiences right inside your mobile app.
+This launch brings a powerful suite of capabilities spanning real-time conversations, seamless authentication, global readiness, and more.
+
+Key Features
+Live Chat with AI & Support Agents
+Deliver instant, intelligent, and human-assisted support. Users can engage with AI agents for quick resolutions or connect with support agents in real time.
+
+FAQ Support
+Empower customers with self-service. Display FAQs natively within the SDK, helping users find answers instantly without needing to start a chat.
+
+Secure Authentication
+Keep user data safe and identify users reliably with robust JWT-based authentication and authorization.
+
+Realtime Push Notifications
+Never miss a message. Users receive instant push notifications for new replies, updates, and important communication events.
+
+Localization Support
+Reach customers across the globe with fully localized experiences tailored to their preferred language.
+
+Away Experience
+Support doesn’t stop when business hours do. Even when your team is offline, customers can still raise chat or email tickets, ensuring their issues are queued and ready for agents to address the moment they’re back online.
+
+Ver 0.2.0
+__________________________
+
+Enhancement:
+    - FRESHDESK_CSAT_UPDATED and FRESHDESK_CSAT_RECEIVED events are deprecated.
+    - Real-time agent message notifications are now supported in tickets.
+    - Better feedback and error handling with Reset user api.
+    
+Bug fixes:
+    - Improvements in AuthenticateAndUpdate api and other minor improvements.
+    
 Ver 0.1.0
 __________________________
 
@@ -19,15 +63,3 @@ New Features:
     - Stay updated with our SDK version with our new method getSDKVersion() -> String
     - Gain control over your widget visibility with our new method dismissFreshworksSDKViews()
     - We now support a range of Messenger Events, including FRESHDESK_USER_CREATED, FRESHDESK_UNREAD_MESSAGE_COUNT_CHANGED, FRESHDESK_MESSAGE_SENT, FRESHDESK_MESSAGE_RECEIVED, FRESHDESK_CSAT_UPDATED, FRESHDESK_CSAT_RECEIVED, FRESHDESK_DOWNLOAD_FILE and FRESHDESK_USER_CLEARED.
-
-Ver 0.2.0
-__________________________
-
-Enhancement:
-    - FRESHDESK_CSAT_UPDATED and FRESHDESK_CSAT_RECEIVED events are deprecated.
-    - Real-time agent message notifications are now supported in tickets.
-    - Better feedback and error handling with Reset user api.
-    
-Bug fixes:
-    - Improvements in AuthenticateAndUpdate api and other minor improvements.
-    

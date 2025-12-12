@@ -62,7 +62,7 @@ public struct FreshdeskSDKConfig : Swift.Codable {
   public var jwtAuthToken: Swift.String?
   public var config: FreshdeskSDK.Configuration
   #if compiler(>=5.3) && $NonescapableTypes
-  public init(token: Swift.String, host: Swift.String, sdkId: Swift.String, jwtToken: Swift.String? = nil, locale: Swift.String? = nil, config: FreshdeskSDK.Configuration = Configuration())
+  public init(token: Swift.String, host: Swift.String, sdkId: Swift.String, jwtToken: Swift.String? = nil, locale: Swift.String? = nil, config: FreshdeskSDK.Configuration = Configuration(), shouldEnableLogs: Swift.Bool = false)
   #endif
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
@@ -83,6 +83,7 @@ public struct Configuration : Swift.Codable {
 }
 extension FreshdeskSDK.Freshworks {
   nonisolated final public func initialize(with model: FreshdeskSDK.FreshdeskSDKConfig)
+  nonisolated final public func enableDebugLogs(_ isEnabled: Swift.Bool)
   nonisolated final public func openSupport(_ viewController: UIKit.UIViewController)
   #if compiler(>=5.3) && $NonescapableTypes
   nonisolated final public func openTopic(_ viewController: UIKit.UIViewController, topicId: Swift.Int?, topicName: Swift.String? = nil)
