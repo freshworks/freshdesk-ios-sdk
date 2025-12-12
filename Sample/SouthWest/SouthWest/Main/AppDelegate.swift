@@ -31,13 +31,15 @@ class AppDelegate: NSObject, UIApplicationDelegate {
                                                    host: Configurations.Account.host,
                                                    sdkId: Configurations.Account.sdkId,
                                                    jwtToken: Configurations.Account.jwt,
-                                                   locale: Configurations.Account.locale
+                                                   locale: Configurations.Account.locale,
+                                                   shouldEnableLogs: true
                 )
                 
                 
                 Freshdesk.initialize(with: sdkConfig)
                 UserDefaults.standard.updateSDKConfig(sdkConfig, locale: Configurations.Account.locale)
             }
+        Freshdesk.enableDebugLogs(true)
             
         }
     
